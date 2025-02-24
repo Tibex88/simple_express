@@ -1,5 +1,4 @@
 const express = require('express')
-// const app = express()
 const port = 3000
 const geneJson = require('./data/genelz.json')
 const ldJson = require('./data/ld.json')
